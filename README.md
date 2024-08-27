@@ -43,7 +43,10 @@ By end of this project, you will gain a comprehensive understanding of essential
 6. Apply theoretical knowledge to real-world scenarios, enhancing their understanding of cloud computing and DevOps principles.
 
 ## Task
-In this part of the project, you will integrate PostgreSQL to persist book data, enhancing the existing microservice. PostgreSQL offers robust relational database capabilities suitable for managing structured data, which aligns well with the needs of a book management system. You will create Postgres database on Render and deploy microservice.
+In this task, you are continuing work from the previous project, focusing on Dockerizing the `book_catalog` microservice and deploying it to Local Kubernetes.
+This task builds upon previous efforts, emphasizing practical skills in containerization, database integration with PostgreSQL, and deployment
+orchestration with Kubernetes in a local development environment. By the end of this project, you will gain hands-on experience in setting up and managing
+containerized applications, leveraging Kubernetes for scalability and management efficiencies.
 
 ### Steps
 
